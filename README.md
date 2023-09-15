@@ -27,3 +27,6 @@ module.exports = {
 **[/example: example.js](https://github.com/ZTRdiamond/simple-restapi-template/blob/main/routes/example.js)**
 
 **[/waifu: waifu.js](https://github.com/ZTRdiamond/simple-restapi-template/blob/main/routes/get.js)**
+
+### Preview
+![terminal](https://pomf2.lain.la/f/qkss19i1.jpg)
